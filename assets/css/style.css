@@ -27,11 +27,13 @@ body {
     font-size: 80px;
     padding-top: 200px;
     padding-right: 100px;
+    color: violet;
 }
 
 .banner-subtitle {
     text-align: end;
     padding-right: 100px;
+    color: violet;
 }
 
 /*About Me*/
